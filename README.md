@@ -1,1 +1,1 @@
-# smart-time-simulator-1.2-
+# smart-time-simulator.
